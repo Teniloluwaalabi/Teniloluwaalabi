@@ -65,7 +65,7 @@ Recently, I completed the **IBM Cybersecurity Professional Certificate**, and I'
 
 ## 📫 Connect With Me
 
-- LinkedIn: https//www.LinkedIn.com/Teniloluwaalabi
+- LinkedIn: www.LinkedIn.com/Teniloluwaalabi
 - Email: alabiteniloluwa@gmail.com
 
 Thanks for visiting my profile!
