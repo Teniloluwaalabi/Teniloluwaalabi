@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi, I'm Teniloluwa Alabi 👋
 
-<!--
-**Teniloluwaalabi/Teniloluwaalabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity & Governance, Risk and Compliance (GRC) Professional
 
-Here are some ideas to get you started:
+Welcome to my GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm transitioning into cybersecurity after building over six years of experience in customer support, legal administration, and operational compliance. My passion is helping organizations manage risk, improve security, and protect sensitive information.
+
+Recently, I completed the **IBM Cybersecurity Professional Certificate**, and I'm actively building hands-on projects to strengthen my skills in Governance, Risk & Compliance (GRC), Security Operations, Incident Response, and Information Security.
+
+---
+
+## 🎯 Career Interests
+
+- Governance, Risk & Compliance (GRC)
+- Information Security
+- Security Operations (SOC)
+- Risk Assessment
+- Security Awareness
+- Incident Response
+- Identity & Access Management
+- Security Compliance
+
+---
+
+## 🛠 Technical Skills
+
+- Risk Assessment
+- Security Governance
+- Incident Response
+- Identity & Access Management
+- Network Security Fundamentals
+- Vulnerability Management
+- Microsoft 365
+- Jira
+- Zendesk
+- Git & GitHub
+
+---
+
+## 📜 Certifications
+
+- IBM Cybersecurity Professional Certificate
+- View all verified certifications in my **Certifications** repository.
+---
+
+## 🚀 Current Projects
+
+- Security Risk Assessment
+- Incident Response Documentation
+- Security Policies
+- GRC Portfolio
+- TryHackMe Write-ups
+
+---
+
+## 🌱 Currently Learning
+
+- TryHackMe
+- Microsoft Learn
+- ISC2 Certified in Cybersecurity (CC)
+- Microsoft Security, Compliance & Identity
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn *linkedin.com/teniloluwaalabi*
+- Email: alabiteniloluwa@gmail.com
+
+Thanks for visiting my profile!
